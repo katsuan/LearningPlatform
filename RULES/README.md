@@ -29,6 +29,8 @@
   MVPの画面遷移、画面責務、主要API、実装フェーズの入口整理
 - `05_er_and_table_draft.md`
   ER図、主要テーブル、制約、インデックス、集計系の下書き
+- `06_gas_spreadsheet_mvp.md`
+  GAS Web App と Spreadsheet を使うMVP簡易実装方針、シート責務、設定値、制約
 
 ## 参照元
 
@@ -47,3 +49,4 @@
 - `03_data_model_and_authorization.md` は「どう壊れにくく持つか」の構造整理として扱う
 - `04_screen_flow_and_api_catalog.md` は「どこから実装を始めるか」の導線整理として扱う
 - `05_er_and_table_draft.md` は「どの保存構造で始めるか」の草案として扱う
+- `06_gas_spreadsheet_mvp.md` は「このMVPをGASでどう成立させるか」の実装方針として扱う
